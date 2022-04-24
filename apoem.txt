@@ -2,6 +2,7 @@ The kadtaf
 green
 purple
 red
+blue
 gray
 yellow
 white
