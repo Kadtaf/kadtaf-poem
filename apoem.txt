@@ -1,0 +1,9 @@
+The kadtaf
+green
+purple
+red
+gray
+yellow
+white
+black
+This is the color of kadtaf
