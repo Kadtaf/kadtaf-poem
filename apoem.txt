@@ -11,4 +11,4 @@ pink
 white
 black
 This is the color of kadtaf
-pony
+ponies
