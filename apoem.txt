@@ -5,6 +5,7 @@ red
 blue
 gray
 yellow
+indego
 unicorne
 pink
 white
