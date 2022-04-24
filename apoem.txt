@@ -5,6 +5,7 @@ red
 blue
 gray
 yellow
+pink
 white
 black
 This is the color of kadtaf
